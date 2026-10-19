@@ -1,0 +1,22 @@
+{
+  "wheel_id": 448,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-105",
+  "project": "retaining-wall-builders-sydney-signs-you-need-81f26a9beb5bfc60e",
+  "parent_t1_ref": "retainingwallssydney-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining wall builders sydney signs you need",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-sydney-signs-you-need-81f26a9beb5bfc60e/",
+  "tier": "T2",
+  "writeback_nonce": "cafeba87b5840f6e",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-sydney-0b9374f0d8f4eead9add72a8188a9559.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this retaining wall builders sydney guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
